@@ -1,0 +1,3 @@
+[submodule "Operating Systems/final-project-emergency-department"]
+	path = operating-systems/final-project-emergency-department
+	url = git@github.com:MattFor/emergency-department.git

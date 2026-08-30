@@ -1,0 +1,7 @@
+* text=auto
+*.pdf   binary
+*.zip   binary
+*.7z    binary
+*.dmp   binary
+
+**/private/** filter=git-crypt diff=git-crypt -text
